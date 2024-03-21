@@ -44,6 +44,11 @@ Add following bucket policy. Replace [YOUR_BUCKET_NAME] with name of your bucket
 Click "save" button to save changes.
 ![Screenshot (18)](https://github.com/DHARANIDHARAN2307/static-website-hosting-in-s3-aws/assets/113666779/1b5173c1-3449-4bcf-b653-e5080081dfa3)
 ### Step 4 - Enable Website Hosting
+Go to Properties and enable "Static Website Hosting" option.
+Note the endpoint. http://{bucket-name}.s3-website-{AWS-Region}.amazonaws.com
+![Screenshot_20240321_134323](https://github.com/DHARANIDHARAN2307/static-website-hosting-in-s3-aws/assets/113666779/d618f8fb-88f0-4cfa-8e4b-021d917ddb14)
+![Screenshot (19)](https://github.com/DHARANIDHARAN2307/static-website-hosting-in-s3-aws/assets/113666779/641e4f3b-f004-489d-887d-b0e00ba9cc23)
+
 
 
 
