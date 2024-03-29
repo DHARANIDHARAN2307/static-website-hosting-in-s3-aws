@@ -48,11 +48,11 @@ Go to Properties and enable "Static Website Hosting" option.
 Note the endpoint. http://{bucket-name}.s3-website-{AWS-Region}.amazonaws.com
 ![Screenshot_20240321_134323](https://github.com/DHARANIDHARAN2307/static-website-hosting-in-s3-aws/assets/113666779/d618f8fb-88f0-4cfa-8e4b-021d917ddb14)
 ![Screenshot (19)](https://github.com/DHARANIDHARAN2307/static-website-hosting-in-s3-aws/assets/113666779/641e4f3b-f004-489d-887d-b0e00ba9cc23)
+### Step 5 - Test the Website
+Now copy the static website URL (that we saved earlier) and run it in your browser. You will be able to see the index.html file's text. A sample screenshot is attached below:
+![Screenshot (23)](https://github.com/DHARANIDHARAN2307/static-website-hosting-in-s3-aws/assets/113666779/4bc688e1-9534-4990-8693-b3fa71ca098b)
 
-
-
-
-
+![Screenshot (24)](https://github.com/DHARANIDHARAN2307/static-website-hosting-in-s3-aws/assets/113666779/936dcd27-0786-4f47-9be1-f43e6458fc3e)
 
 
 
